@@ -1,0 +1,46 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Allura&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.box{
+    height: 150px;
+    width: 80%;
+    background-color: whitesmoke;
+    margin: auto;
+    padding-left: 30px;
+    border-radius: 5px;
+    border-left: 5px solid purple;
+}
+
+.quotes{
+    padding-top: 20px;
+    justify-content: center;
+    color: gray;
+    font-size: 30px;
+}
+.paragraph{
+    font-size: 29px;
+    
+}
+.openQuotes{
+    font-size: 50px;
+    color: gray;
+    font-weight: 600;
+}
+.closeQuotes{
+    font-size: 50px;
+    padding-left: 20px;
+    color: gray;
+}
+.box, .closeQuotes, .openQuotes, .paragraph, .quotes {
+    
+        font-family: "Allura", cursive;
+        font-weight: 500;
+        font-style: normal;
+    
+      
+}
